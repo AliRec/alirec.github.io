@@ -1,18 +1,42 @@
-- name: Zhuofeng Wu
+- name: <a href="https://yliyxr.github.io/"> Xinru Yang </a>
   photo: rock.jpg
-  duration: In the Ali Rec 2019.5 - 2019.8, 
+  duration: 2018.5 -- 2018.9, 
   info: xx
   email: xx
   number_educ: 1
-  education1: xx
+  education1: Master CMU
+
+- name: Tianshu Lyu
+  photo: rock.jpg
+  duration: 2018.5 -- 2018.9, 
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: PhD PKU
+
+- name: Chengzhen Fu
+  photo: rock.jpg
+  duration: 2018.5 -- 2018.12, 
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: Master PKU
+
+- name: Zhuofeng Wu
+  photo: rock.jpg
+  duration: 2019.5 -- 2019.8, 
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: PhD 
 
 - name: Juan Li
   photo: juanli.jpg
-  duration: In the Ali Rec 2019.5 - 2019.10, 
+  duration: 
   info: xx
   email: xx
   number_educ: 1
-  education1: xx
+  education1: PhD SJTU
 
 
 # - name: Gijsbert Verdoes
