@@ -15,7 +15,7 @@
 - name: Yu Gong
   photo: yugong.jpg
   info: 
-  email:
+  email: test@test.com
   number_educ: 1
   education1: xxx
 
