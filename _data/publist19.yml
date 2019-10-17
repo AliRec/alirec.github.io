@@ -4,6 +4,12 @@
     url: https://arxiv.org/pdf/1904.08030.pdf
     display:  CIKM 2019
 
+- title: "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer"
+  authors: Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang
+  link:
+    url: https://arxiv.org/pdf/1904.06690.pdf
+    display:  CIKM 2019
+
 - title: "Query-based Interactive Recommendation by Meta-Path and Adapted Attention-GRU"
   authors: Yu Zhu, Yu Gong, Qingwen Liu, Yingcai Ma, Wenwu Ou, Junxiong Zhu, Beidou Wang, Ziyu Guan, Deng Cai
   link:
