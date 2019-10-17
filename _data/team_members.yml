@@ -5,6 +5,13 @@
   number_educ: 1
   education1: xxx
 
+- name: Zhiyuan Liu
+  photo: rock.jpg
+  info: 
+  email:
+  number_educ: 1
+  education1: xxx
+
 - name: Yu Gong
   photo: rock.jpg
   info: 
@@ -27,7 +34,7 @@
   education1: xxx
 
 - name: <a href="http://ofey.me/">Fei Sun</a>
-  photo: rock.jpg
+  photo: feisun.jpg
   info: xx
   email: xx
   number_educ: 2

@@ -6,13 +6,14 @@
   number_educ: 1
   education1: xx
 
-# - name: Xu Xie
-#   photo: rock.jpg
-#   duration: In the Ali Rec 2019.5 - 2019.8, 
-#   info: xx
-#   email: xx
-#   number_educ: 1
-#   education1: xx
+- name: Juan Li
+  photo: juanli.jpg
+  duration: In the Ali Rec 2019.5 - 2019.10, 
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: xx
+
 
 # - name: Gijsbert Verdoes
 #   photo: verdoes.jpg
@@ -25,15 +26,6 @@
 #   education3:
 #   education4:
 
-# - name: Irene Battisti
-#   photo: irene.jpg
-#   info: PhD student
-#   duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-#   email: Battisti@Physics.LeidenUniv.nl
-#   number_educ: 3
-#   education1: Master Padova University
-#   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-#   education3: PhD Leiden University!
 
 # - name: Doohee Cho
 #   photo: Doohee2.jpg
