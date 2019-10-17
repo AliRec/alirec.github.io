@@ -53,6 +53,13 @@
   highlight: 0
   news2:
 
+- title: "Value-aware Recommendation based on Reinforcement Profit Maximization"
+  authors: Changhua Pei, Xinru Yang, Qing Cui, Xiao Lin, Fei Sun, Peng Jiang, Wenwu Ou, Yongfeng Zhang
+  link:
+    url: https://arxiv.org/pdf/1902.00851.pdf
+    display:  WWW 2019
+
+
 - title: "Deep Cascade Multi-Task Learning for Slot Filling in Online Shopping Assistant"
   image: 
   description: 
