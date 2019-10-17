@@ -34,8 +34,15 @@
   education1: Text Representation, Summarization
   education2: Sequential Recommendation, Generative Recommendation
 
+- name: Xiao Han
+  photo: xiaohan.jpg
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: xx 
+
 - name: Yu Zhu
-  photo: rock.jpg
+  photo: yuzhu.jpg
   info: xx
   email: xx
   number_educ: 1
