@@ -6,13 +6,13 @@
   number_educ: 1
   education1: xx
 
-- name: Xu Xie
-  photo: rock.jpg
-  duration: In the Ali Rec 2019.5 - 2019.8, 
-  info: xx
-  email: xx
-  number_educ: 1
-  education1: xx
+# - name: Xu Xie
+#   photo: rock.jpg
+#   duration: In the Ali Rec 2019.5 - 2019.8, 
+#   info: xx
+#   email: xx
+#   number_educ: 1
+#   education1: xx
 
 # - name: Gijsbert Verdoes
 #   photo: verdoes.jpg
