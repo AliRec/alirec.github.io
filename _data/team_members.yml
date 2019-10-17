@@ -13,7 +13,7 @@
   education1: xxx
 
 - name: Yu Gong
-  photo: rock.jpg
+  photo: yugong.jpg
   info: 
   email:
   number_educ: 1
@@ -41,7 +41,7 @@
   education1: Text Representation, Summarization
   education2: Sequential Recommendation, Generative Recommendation
 
-- name: Xiao Han
+- name: Xiaohan Sun
   photo: xiaohan.jpg
   info: xx
   email: xx
