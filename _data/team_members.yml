@@ -1,14 +1,14 @@
 - name: Wen Chen
   photo: wenchen.jpg
   info: 
-  email:
+  email: 
   number_educ: 1
   education1: Fashion Recommendation
 
 - name: Zhiyuan Liu
   photo: zyl.jpg
   info: 
-  email:
+  email: 
   number_educ: 1
   education1: xxx
 
@@ -22,14 +22,14 @@
 - name: Xiao Lin
   photo: xiaolin.jpg
   info: 
-  email:
+  email: 
   number_educ: 1
   education1: xxx
 
 - name: Changhua Pei
   photo: chp3.jpg
   info: 
-  email:
+  email: 
   number_educ: 1
   education1: xxx
 
