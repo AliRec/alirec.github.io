@@ -147,9 +147,7 @@ Jump to [staff](#staff), [Current Research Interns](#current-research-interns), 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i> Duration: {{ member.duration }} </i>  
-  {% if member.number_educ == 1 %}
-    <i> {{ member.education1 }} </i>
-  {% endif %}  
+  <i> {{ member.education1 }} </i> 
   <!-- Role: {{ member.info }} -->
  
   <ul style="overflow: hidden">
