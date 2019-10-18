@@ -1,6 +1,6 @@
 - name: <a href="https://yliyxr.github.io/"> Xinru Yang </a>
   photo: yxr.jpg
-  duration: 2018.5 -- 2018.9, 
+  duration: 2018.5 -- 2018.9
   info: xx
   email: xx
   number_educ: 1
@@ -8,7 +8,7 @@
 
 - name: Tianshu Lyu
   photo: rock.jpg
-  duration: 2018.5 -- 2018.9, 
+  duration: 2018.5 -- 2018.9
   info: xx
   email: xx
   number_educ: 1
@@ -16,15 +16,23 @@
 
 - name: Chengzhen Fu
   photo: rock.jpg
-  duration: 2018.5 -- 2018.12, 
+  duration: 2018.5 -- 2018.12
   info: xx
   email: xx
   number_educ: 1
   education1: Master PKU
 
-- name: Zhuofeng Wu
+- name: Yuan Zhang
   photo: rock.jpg
-  duration: 2019.5 -- 2019.8, 
+  duration: 2018.5 -- 2018.12
+  info: xx
+  email: xx
+  number_educ: 1
+  education1: PhD PKU
+
+- name: Zhuofeng Wu
+  photo: Zhuofeng_Wu.jpg
+  duration: 2019.5 -- 2019.8
   info: xx
   email: xx
   number_educ: 1
