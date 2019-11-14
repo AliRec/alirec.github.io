@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a recommendation algorithm team at Alibaba Group, part of the <em>Alibaba Search & Recommendation Business Unit</em> at <a href="https://www.alibabagroup.com">Alibaba Group</a>.
+We are a recommendation algorithm team at <a href="https://www.alibabagroup.com">Alibaba Group</a>, part of the <em>Alibaba Search & Recommendation Business Unit</em>.
 Our aim is to build large-scale distributed recommender system for helping people easily find and purchase the items they need in Alibaba e-commence ecosystem.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
