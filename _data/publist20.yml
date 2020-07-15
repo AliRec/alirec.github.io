@@ -10,8 +10,14 @@
     url: 
     display:  KDD 2020
 
+- title: "ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation"
+  authors: Yufei Feng, Binbin Hu, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang, Wenwu Ou
+  link:
+    url: https://arxiv.org/abs/2005.12002
+    display:  SIGIR 2020
+
 - title: "Understanding Echo Chambers in E-commerce Recommender Systems"
   authors: Yingqiang Ge, Shuya Zhao, Honglu Zhou, Changhua Pei, Fei Sun, Wenwu Ou and Yongfeng Zhang
   link:
-    url: 
+    url: https://arxiv.org/abs/2007.02474
     display:  SIGIR 2020
