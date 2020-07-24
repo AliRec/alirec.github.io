@@ -1,3 +1,9 @@
+- title: "Graph-based Regularization on Embedding Layers for Recommendation"
+  authors: Yuan Zhang, Fei Sun, Xiaoyong Yang, Chen Xu, and Wenwu Ou
+  link:
+    url: 
+    display:  TOIS 2020
+
 - title: "Privileged Features Distillation at Taobao Recommendations"
   authors: Chen Xu, Quan Li, Junfeng Ge, Jinyang Gao, Xiaoyong Yang, Changhua Pei, Fei Sun, Jian Wu, Hanxiao Sun and Wenwu Ou
   link:
